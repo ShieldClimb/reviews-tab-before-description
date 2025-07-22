@@ -17,6 +17,10 @@ ShieldClimb's **[Move Reviews Tab Before Description](https://shieldclimb.com/fr
 1. **Upload and Install**: Upload the plugin and install it in WordPress.
 2. **Activate**: Click activate.
 
+## 📺 Watch the Full Install and Setup Tutorial Here:
+
+[![How to Install and Setup the Plugin](https://img.youtube.com/vi/MIYzWyHn7D4/0.jpg)](https://www.youtube.com/watch?v=MIYzWyHn7D4)
+
 ## 🔥 Features
 
 - **[Automatically Moves Reviews Tab Before Description](https://shieldclimb.com/free-woocommerce-plugins/reviews-tab-before-description/)**: No manual work needed.
