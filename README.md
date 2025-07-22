@@ -38,6 +38,10 @@ ShieldClimb's **[Move Reviews Tab Before Description](https://shieldclimb.com/fr
 
 ## 📜 Changelog
 
+### v1.0.2
+- Improved: Updated plugin tags for better discoverability, added installation & usage video to plugin page.
+- Updated: Tested up to WooCommerce 10.0.3
+
 ### v1.0.1
 - Updated: Tested up to WordPress 6.8 and WooCommerce 9.8.1
 
