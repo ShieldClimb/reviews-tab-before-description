@@ -1,7 +1,7 @@
 === ShieldClimb – Move Reviews Tab Before Description for WooCommerce ===
 Contributors: shieldclimb
 Donate link: https://shieldclimb.com/
-Tags: WooCommerce Reviews Tab, Move Product Tabs WooCommerce, Improve WooCommerce Conversions, WooCommerce Tab Customization, Shopify-like WooCommerce Layout
+Tags: reviews, woocommerce, customer reviews, product reviews, woocommerce reviews
 Requires at least: 5.8
 Tested up to: 6.8
 Stable tag: 1.0.2
