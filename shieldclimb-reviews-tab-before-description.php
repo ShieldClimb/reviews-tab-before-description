@@ -4,15 +4,15 @@
  * Plugin Name: ShieldClimb – Move Reviews Tab Before Description for WooCommerce
  * Plugin URI: https://shieldclimb.com/free-woocommerce-plugins/reviews-tab-before-description/
  * Description: Move Reviews Tab Before Description for WooCommerce to boost trust, increase conversions, and get a Shopify-like product page.
- * Version: 1.0.2
+ * Version: 1.0.3
  * Requires Plugins: woocommerce
  * Requires at least: 5.8
- * Tested up to: 6.8
+ * Tested up to: 6.9
  * WC requires at least: 5.8
- * WC tested up to: 10.0.3
+ * WC tested up to: 10.4.3
  * Requires PHP: 7.2
  * Author: shieldclimb.com
- * Author URI: https://shieldclimb.com/about-us/
+ * Author URI: https://shieldclimb.com/
  * License: GPLv2 or later
  * License URI: https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
  */

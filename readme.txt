@@ -1,13 +1,13 @@
 === ShieldClimb – Move Reviews Tab Before Description for WooCommerce ===
 Contributors: shieldclimb
-Donate link: https://shieldclimb.com/
+Donate link: https://shieldclimb.com/product/donate-now/
 Tags: reviews, woocommerce, customer reviews, product reviews, woocommerce reviews
 Requires at least: 5.8
-Tested up to: 6.8
-Stable tag: 1.0.2
+Tested up to: 6.9
+Stable tag: 1.0.3
 Requires PHP: 7.2
 WC requires at least: 5.8
-WC tested up to: 10.0.3
+WC tested up to: 10.4.3
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
 
@@ -41,6 +41,10 @@ See more via [this website](https://shieldclimb.com/free-woocommerce-plugins/rev
 2. After using the plugin – Reviews tab is automatically moved above the description for improved visibility, similar to Shopify.
 
 == ChangeLog ==
+
+= V1.0.3 =
+
+* **Updated**: Tested up to WordPress 6.9 and WooCommerce 10.4.3
 
 = V1.0.2 =
 

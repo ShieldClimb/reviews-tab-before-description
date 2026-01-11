@@ -42,6 +42,9 @@ ShieldClimb's **[Move Reviews Tab Before Description](https://shieldclimb.com/fr
 
 ## 📜 Changelog
 
+### v1.0.3
+- Updated: Tested up to WordPress 6.9 and WooCommerce 10.4.3
+
 ### v1.0.2
 - Improved: Updated plugin tags for better discoverability, added installation & usage video to plugin page.
 - Updated: Tested up to WooCommerce 10.0.3
@@ -67,7 +70,7 @@ Released under **GPLv2 or later**. See [LICENSE](https://www.gnu.org/licenses/ol
 ---
 ### 🌐 Helpful Links
 - **[ShieldClimb Free Woocommerce Plugins](https://shieldclimb.com/free-woocommerce-plugins/)** – Explore more free plugins.
-- **[Move Reviews Tab Before Description – Blog Post](https://shieldclimb.com/blog/reviews-tab-before-description/)** – Learn more about this feature.
+- **[Move Reviews Tab Before Description – Blog Post](https://shieldclimb.com/blog/how-to-move-reviews-before-description-woocommerce/)** – Learn more about this feature.
 - **[High-Risk Card Payment Gateway](https://shieldclimb.com/high-risk-payment-gateway/)** – Secure payment processing for high-risk businesses.
 - **[Crypto Payment Gateway](https://shieldclimb.com/crypto-payment-gateway/)** – Secure and seamless crypto payment gateway for fast, global transactions with low fees. 
 - **[ShieldClimb Homepage](https://shieldclimb.com/)** – Explore all our services and solutions.
